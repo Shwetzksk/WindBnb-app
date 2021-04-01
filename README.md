@@ -49,20 +49,20 @@ Home page
 Usage:
 
 - After choosing location as OULU,FINLAND we choose no. of guests
-  <img src="./Screenshot_4.png" alt='home page' raw=true/>
-
--After clicking on SEARCH button it filter out the rooms available in those places
-<img src="./Screenshot_5.png" alt='home page' raw=true/>
+<img src="./Screenshot_4.png" alt='home page' raw=true/>
+<hr/>
+- After clicking on SEARCH button it filter out the rooms available in those places
+  <img src="./Screenshot_5.png" alt='home page' raw=true/>
 
 ## Mobile
 
-<img src="./Screenshot_6.png" alt='home page' raw=true style="width: 100px;"/>
-
-<img src="./Screenshot_7.png" alt='home page' raw=true/>
-
-<img src="./Screenshot_8.png" alt='home page' raw=true/>
-
-<img src="./Screenshot_9.png" alt='home page' raw=true/>
+<img src="./Screenshot_6.png" alt='home page' raw=true height="100px" width="100px"/>
+<hr/>
+<img src="./Screenshot_7.png" alt='home page' raw=true height="100px" width="100px"/>
+<hr/>
+<img src="./Screenshot_8.png" alt='home page' raw=true height="100px" width="100px"/>
+<hr/>
+<img src="./Screenshot_9.png" alt='home page' raw=true height="100px" width="100px"/>
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
