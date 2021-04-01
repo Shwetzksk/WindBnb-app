@@ -56,9 +56,12 @@ Usage:
 
 ## Mobile
 
-<img src="./Screenshot_6.png" alt='home page' raw=true/>
+<img src="./Screenshot_6.png" alt='home page' raw=true style="width: 300px;"/>
+
 <img src="./Screenshot_7.png" alt='home page' raw=true/>
+
 <img src="./Screenshot_8.png" alt='home page' raw=true/>
+
 <img src="./Screenshot_9.png" alt='home page' raw=true/>
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
