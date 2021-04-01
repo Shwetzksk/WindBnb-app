@@ -43,7 +43,10 @@
 
 Home page
 <img src="./Screenshot_1.png" alt='home page' raw=true/>
+
+<hr height="5px" width="75%" margin="0 auto"/>
 <img src="./Screenshot_2.png" alt='home page' raw=true/>
+<hr height="5px" width="75%" margin="0 auto"/>
 <img src="./Screenshot_3.png" alt='home page' raw=true/>
 
 Usage:
