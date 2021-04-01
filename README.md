@@ -54,16 +54,6 @@ Usage:
 - After clicking on SEARCH button it filter out the rooms available in those places
   <img src="./Screenshot_5.png" alt='home page' raw=true/>
 
-## Mobile
-
-<img src="./Screenshot_6.png" alt='home page' raw=true height="200px" width="200px"/>
-<hr height="5px" width="75%" margin="0 auto"/>
-<img src="./Screenshot_7.png" alt='home page' raw=true height="300px" width="200px"/>
-<hr height="5px" width="75%" margin="0 auto"/>
-<img src="./Screenshot_8.png" alt='home page' raw=true height="150px" width="150px"/>
-<hr height="5px" width="75%" margin="0 auto"/>
-<img src="./Screenshot_9.png" alt='home page' raw=true height="500px" width="500px"/>
-
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
