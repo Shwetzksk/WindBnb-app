@@ -39,7 +39,27 @@
 
 <!-- ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png) -->
 
+## Desktop
+
+Home page
 <img src="./Screenshot_1.png" alt='home page' raw=true/>
+<img src="./Screenshot_2.png" alt='home page' raw=true/>
+<img src="./Screenshot_3.png" alt='home page' raw=true/>
+
+Usage:
+
+- After choosing location as OULU,FINLAND we choose no. of guests
+  <img src="./Screenshot_4.png" alt='home page' raw=true/>
+
+-After clicking on SEARCH button it filter out the rooms available in those places
+<img src="./Screenshot_5.png" alt='home page' raw=true/>
+
+## Mobile
+
+<img src="./Screenshot_6.png" alt='home page' raw=true/>
+<img src="./Screenshot_7.png" alt='home page' raw=true/>
+<img src="./Screenshot_8.png" alt='home page' raw=true/>
+<img src="./Screenshot_9.png" alt='home page' raw=true/>
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
