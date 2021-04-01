@@ -56,7 +56,7 @@ Usage:
 
 ## Mobile
 
-<img src="./Screenshot_6.png" alt='home page' raw=true style="width: 300px;"/>
+<img src="./Screenshot_6.png" alt='home page' raw=true style="width: 100px;"/>
 
 <img src="./Screenshot_7.png" alt='home page' raw=true/>
 
