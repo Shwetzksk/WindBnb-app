@@ -44,16 +44,16 @@
 Home page
 <img src="./Screenshot_1.png" alt='home page' raw=true/>
 
-<hr height="5px" width="75%" margin="0 auto"/>
+<hr height="3px"  />
 <img src="./Screenshot_2.png" alt='home page' raw=true/>
-<hr height="5px" width="75%" margin="0 auto"/>
+<hr height="3px"  />
 <img src="./Screenshot_3.png" alt='home page' raw=true/>
 
 Usage:
 
 - After choosing location as OULU,FINLAND we choose no. of guests
 <img src="./Screenshot_4.png" alt='home page' raw=true/>
-<hr height="5px" width="75%" margin="0 auto"/>
+<hr height="3px"  />
 - After clicking on SEARCH button it filter out the rooms available in those places
   <img src="./Screenshot_5.png" alt='home page' raw=true/>
 
